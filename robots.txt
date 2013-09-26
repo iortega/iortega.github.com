@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://iortega.github.io/sitemap.xml 
+Sitemap: http://blog.iostart.com/sitemap.xml 

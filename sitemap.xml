@@ -1,23 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://iortega.github.io/about/</loc>
+        <loc>http://blog.iostart.com/about/</loc>
         <lastmod>2013-09-25T22:34:45-03:00</lastmod>
     </url>
     <url>
-        <loc>http://iortega.github.io/blog/archives/</loc>
+        <loc>http://blog.iostart.com/blog/archives/</loc>
         <lastmod>2013-09-25T22:34:45-03:00</lastmod>
     </url>
     <url>
-        <loc>http://iortega.github.io/</loc>
+        <loc>http://blog.iostart.com/</loc>
         <lastmod>2013-09-25T22:34:45-03:00</lastmod>
     </url>
     <url>
-        <loc>http://iortega.github.io/robots.txt</loc>
+        <loc>http://blog.iostart.com/robots.txt</loc>
         <lastmod>2013-09-25T22:34:45-03:00</lastmod>
     </url>
     <url>
-        <loc>http://iortega.github.io/search.html</loc>
+        <loc>http://blog.iostart.com/search.html</loc>
         <lastmod>2013-09-25T22:34:45-03:00</lastmod>
     </url>
 </urlset>
